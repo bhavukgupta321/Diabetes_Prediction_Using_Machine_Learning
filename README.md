@@ -42,7 +42,5 @@ Key steps in the workflow include:
 ## 💡 Business & Practical Impact
 - Early Diagnosis Support: Helps medical professionals identify high-risk individuals quickly.
 - Cost Reduction: Early detection can reduce healthcare costs by preventing severe complications.
-
-Data-Driven Decisions: Enables healthcare providers to prioritize patients based on risk scores.
-
-Scalability: Can be integrated into hospital systems for real-time prediction.
+- Data-Driven Decisions: Enables healthcare providers to prioritize patients based on risk scores.
+- Scalability: Can be integrated into hospital systems for real-time prediction.
